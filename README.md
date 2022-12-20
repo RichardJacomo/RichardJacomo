@@ -16,8 +16,8 @@
 
 
 <div>
-    <a href="https://github.com/Gurupreet">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=RichardJacomo&show_icons=true&theme=dracula&line_height=27" alt="**Richard** github stats"/>
+    <a href="https://github.com/RichardJacomo">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=RichardJacomo&show_icons=true&theme=dracula&line_height=27" alt="Richard github stats"/>
   </a>
 </div>
 
