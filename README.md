@@ -18,13 +18,12 @@
     <a href="https://github.com/RichardJacomo">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=RichardJacomo&show_icons=true&theme=radical&line_height=27&count_private=true" alt="Richard github stats"/>
   </a>
-  
   <a href="https://github.com/RichardJacomo">
   <img align="center" height="207" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RichardJacomo&theme=radical&hide_langs_below=1" />
 </a>
 </div>
 
-----
+
 
 
 
