@@ -14,7 +14,7 @@
 ---
 
 
-<div align="center">
+<div align="center" display="flex">
     <a href="https://github.com/RichardJacomo">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=RichardJacomo&show_icons=true&theme=radical&line_height=27&count_private=true" alt="Richard github stats"/>
   </a>
