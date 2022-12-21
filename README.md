@@ -26,9 +26,6 @@
 
 ----
 
-![Snake animation](https://github.com/RichardJacomo/RichardJacomo/blob/output/github-contribution-grid-snake.svg)
-
-----
 
 
 
