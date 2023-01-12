@@ -13,7 +13,7 @@
 
 ---
 
-### Detalhes sobre meu perfil no GitHub:
+<!-- ### Detalhes sobre meu perfil no GitHub:
 <div align="center">
     <a href="https://github.com/RichardJacomo">
     <img align="center" width="400" src="https://github-readme-stats.vercel.app/api?username=RichardJacomo&show_icons=true&theme=radical&line_height=27&count_private=true" alt="Richard github stats"/>
@@ -23,7 +23,7 @@
 </a>
 </div>
 
----
+--- -->
 ### Meus repositórios:
 
 
