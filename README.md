@@ -8,12 +8,13 @@
 <img src="https://img.icons8.com/color/48/000000/typescript.png"/> <!-- TypeScript -->
 <img src="https://img.icons8.com/color/48/000000/react-native.png"/> <!-- React -->
 <img src="https://raw.githubusercontent.com/styled-components/brand/master/styled-components.png" alt="styled-components" width="48" height="48"/> <!-- styled-components -->
+<img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> <!-- Bootstrap -->
 <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> <!-- Node.js -->
 <img src="https://img.icons8.com/color/48/000000/express.png"/> <!-- Express -->
 <img src="https://img.icons8.com/color/48/000000/postgreesql.png"/> <!-- PostgreSQL -->
 <img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/> <!-- MySQL -->
+<img src="https://img.icons8.com/color/48/000000/python.png"/> <!-- Python -->
 <img src="https://img.icons8.com/officel/40/000000/php-logo.png"/> <!-- PHP -->
-<img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> <!-- Bootstrap -->
 <img src="https://img.icons8.com/color/48/000000/wordpress.png"/> <!-- WordPress -->
 
 ## Commit Graph
