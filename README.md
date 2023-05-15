@@ -14,6 +14,8 @@
 <img src="https://img.icons8.com/color/48/000000/postgreesql.png"/> <!-- PostgreSQL -->
 <img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/> <!-- MySQL -->
 <img src="https://img.icons8.com/color/48/000000/python.png"/> <!-- Python -->
+<img src="https://img.icons8.com/color/48/000000/django.png"/> <!-- Django -->
+<img src="https://img.icons8.com/color/48/000000/docker.png"/> <!-- Docker -->
 <img src="https://img.icons8.com/officel/40/000000/php-logo.png"/> <!-- PHP -->
 <img src="https://img.icons8.com/color/48/000000/wordpress.png"/> <!-- WordPress -->
 
