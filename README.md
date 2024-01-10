@@ -2,10 +2,10 @@
 
 ## Tech Stack
 
-<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
+<a href="https://www.w3schools.com/html/" target="_blank">
   <img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/> <!-- HTML -->
 </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
+<a href="https://www.w3schools.com/css/" target="_blank">
   <img src="https://img.icons8.com/color/48/000000/css3.png"/> <!-- CSS -->
 </a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
