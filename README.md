@@ -1,4 +1,4 @@
-# Welcome to Richard Jácomo's GitHub Repository
+# Welcome to my GitHub Repository!
 
 ## Tech Stack
 
