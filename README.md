@@ -1,4 +1,4 @@
-# Welcome to my GitHub Repository!
+# Welcome To My GitHub Repository!
 
 ## Tech Stack
 
